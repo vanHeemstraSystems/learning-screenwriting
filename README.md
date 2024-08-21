@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-screenwriting/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-screenwriting/actions/workflows/publish.yml)
+
 learning-screenwriting
 # Learning Screenwriting
 
