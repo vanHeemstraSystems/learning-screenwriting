@@ -1,7 +1,19 @@
 learning-screenwriting
 # Learning Screenwriting
 
-Based on "ABC" at https://www.abc.com/
+Based on "Learning" at https://github.com/vanHeemstraSystems/learning
+
+Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
+
+Can be read as "Learning - Screenwriting" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
+
+Can be browsed as "Learning - Screenwriting" at https://vanheemstrasystems.github.io/learning-screenwriting/
+
+Roadmap to Learning Screenwriting at https://roadmap.sh/screenwriting
+
+Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
+
+Based on "StudioBinder" at https://www.studiobinder.com/
 
 ## 100 - Introduction
 
