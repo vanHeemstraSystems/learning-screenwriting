@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+learning-screenwriting
+# Learning Screenwriting
 
 Based on "ABC" at https://www.abc.com/
 
@@ -11,7 +11,7 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Learning Our Subject
 
 See [README.md](./300/README.md)
 
